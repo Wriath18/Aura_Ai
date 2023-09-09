@@ -1,6 +1,6 @@
 # Aura Bot - Your AI Chat Assistant
 
-![Aura Bot Logo](Cover.jpg)
+![Aura Bot Logo](images/Cover.jpg)
 
 Aura Bot is an AI-powered chat assistant designed to engage in meaningful conversations with users. It can provide information, answer questions, and even recommend songs based on your mood. Whether you use it on Telegram, a website, or an app, Aura Bot is here to assist you.
 
@@ -31,11 +31,11 @@ pip install -r requirements.txt
 
 
 ## Usage Images
-![Alt Text](conversation.jpeg)
-![Alt Text](emotion.jpeg)
-![Alt Text](hindi.jpeg)
-![Alt Text](hinglish.jpeg)
-![Alt Text](hindi-2.jpeg)
+![Alt Text](images/conversation.jpeg)
+![Alt Text](images/emotion.jpeg)
+![Alt Text](images/hindi.jpeg)
+![Alt Text](images/hinglish.jpeg)
+![Alt Text](images/hindi-2.jpeg)
 
 
 
