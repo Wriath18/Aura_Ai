@@ -1,6 +1,6 @@
 # Aura Bot - Your AI Chat Assistant
 
-![Aura Bot Logo](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fneon-wave-sound-vector-background-music-soundwave-design-purple-light-elements-isolated-on-dark-backdrop-radio-frequency-beat-lines%2F257638595&psig=AOvVaw3TOJ6PxeLV5AX_zd0GJYKM&ust=1694374285585000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDmy56inoEDFQAAAAAdAAAAABAE)
+![Aura Bot Logo]([https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fneon-wave-sound-vector-background-music-soundwave-design-purple-light-elements-isolated-on-dark-backdrop-radio-frequency-beat-lines%2F257638595&psig=AOvVaw3TOJ6PxeLV5AX_zd0GJYKM&ust=1694374285585000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDmy56inoEDFQAAAAAdAAAAABAE](https://t4.ftcdn.net/jpg/02/57/63/85/360_F_257638595_w0XslNh1a5zRTyK9qSrzy69GV7haHQ13.jpg))
 
 Aura Bot is an AI-powered chat assistant designed to engage in meaningful conversations with users. It can provide information, answer questions, and even recommend songs based on your mood. Whether you use it on Telegram, a website, or an app, Aura Bot is here to assist you.
 
