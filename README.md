@@ -28,6 +28,18 @@ pip install -r requirements.txt
 4️⃣ When you type /stop, the chat gets deleted and refreshed.  
 6️⃣ No more rules, Enjoy! 😎  
 
+
+
+## Usage Images
+![Alt Text](conversation.jpeg)
+![Alt Text](emotion.jpeg)
+![Alt Text](hindi.jpeg)
+![Alt Text](hinglish.jpeg)
+![Alt Text](hindi-2.jpeg)
+
+
+
+
 ## Access and Permission
 Access to the code of Aura Bot is controlled to maintain code quality and security. To request access and collaborate on the code, please follow these steps:
 
