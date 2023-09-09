@@ -6,7 +6,7 @@ Aura Bot is an AI-powered chat assistant designed to engage in meaningful conver
 
 ## Getting Started
 
-To use Aura Bot, you can interact with it on Telegram. Simply start a chat with [@AuraBot](https://t.me/AuraBot) on Telegram and follow the prompts to begin your conversation.
+To use Aura Bot, you can interact with it on Telegram. Simply start a chat with [@AuraBot](https://t.me/Aura_Ai_18_Bot) on Telegram and follow the prompts to begin your conversation.
 
 ## Requirements
 
