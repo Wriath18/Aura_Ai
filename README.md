@@ -15,10 +15,10 @@ pip install -r requirements.txt
 
 
 ## How to Use
-1️⃣ Start a chat with @AuraBot on Telegram.
-2️⃣ Engage in a conversation with Aura Bot.
-3️⃣ Provide at least 5 inputs to allow Aura Bot to analyze your mood.
-4️⃣ Enjoy song recommendations based on your mood.
+1️⃣ Start a chat with @AuraBot on Telegram.  
+2️⃣ Engage in a conversation with Aura Bot.  
+3️⃣ Provide at least 5 inputs to allow Aura Bot to analyze your mood.  
+4️⃣ Enjoy song recommendations based on your mood.  
 
 
 ## Things to Know
