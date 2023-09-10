@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ## Access and Permission
 Access to the code of Aura Bot is controlled to maintain code quality and security. To request access and collaborate on the code, please follow these steps:
 
-Send an Access Request: Reach out to me via email at sanidhyagoelgs@gmail.com with your request to access the code. Include a brief description of your purpose for using the code.
+Send an Access Request: Reach out to me via email at wriath18@gmail.com with your request to access the code. Include a brief description of your purpose for using the code.
 
 Review and Approval: I will review your request and respond via email. If your request aligns with the project's goals, you will receive access to the code.
 
@@ -58,4 +58,4 @@ Please respect the code of conduct, licensing terms, and guidelines for this pro
 Thank you for your interest and cooperation!
 
 Sanidhya Goel
-sanidhyagoelgs@gmail.com
+wriath18@gmail.com
